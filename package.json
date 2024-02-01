@@ -1,7 +1,7 @@
 {
-  "name": "react-window",
+  "name": "@kovarjan/react-window",
   "version": "1.8.10",
-  "description": "React components for efficiently rendering large, scrollable lists and tabular data",
+  "description": "React components for efficiently rendering large, scrollable lists and tabular data, fork with reverse support",
   "author": "Brian Vaughn <brian.david.vaughn@gmail.com> (https://github.com/bvaughn/)",
   "contributors": [
     "Brian Vaughn <brian.david.vaughn@gmail.com> (https://github.com/bvaughn/)"
@@ -10,10 +10,10 @@
   "homepage": "http://react-window.now.sh/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bvaughn/react-window.git"
+    "url": "https://github.com/kovarjan/react-window"
   },
   "bugs": {
-    "url": "https://github.com/bvaughn/react-window/issues"
+    "url": "https://github.com/kovarjan/react-window/issues"
   },
   "engines": {
     "node": ">8.0.0"
